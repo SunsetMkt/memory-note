@@ -34,7 +34,7 @@
     "@cfworker/uuid": "^1.8.3",
     "@notionhq/client": "^2.2.5",
     "@octokit/core": "^3.5.1",
-    "hono": "^3.2.3"
+    "hono": "^4.2.7"
   },
   "prettier": {
     "singleQuote": false,
